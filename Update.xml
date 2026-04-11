@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.1</version>
-    <url>https://github.com/indominusvoids/Launcher/blob/main/Installer.msi</url>
+    <url>https://raw.githubusercontent.com/indominusvoids/Launcher/main/Installer.msi</url>
     <mandatory>true</mandatory>
 </item>
